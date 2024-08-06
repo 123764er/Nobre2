@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nobre Madeiras</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #8B4513;
+            color: white;
+            padding: 10px 0;
+        }
+        a {
+            display: inline-block;
+            margin: 15px;
+            padding: 10px 20px;
+            background-color: #8B4513;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        a:hover {
+            background-color: #5A2D0C;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nobre Madeiras</h1>
+    </header>
+    <main>
+        <p>Bem-vindo à Nobre Madeiras! Aqui você encontra produtos de qualidade e participa de rifas exclusivas.</p>
+        <a href="https://api.whatsapp.com/send?phone=+55 45 92001-6750" target="_blank">Entre em Contato</a>
+        <a href="https://chat.whatsapp.com/FPZgAhB3DtLHcl8eGKwH4s   target="_blank">Participar da Rifa</a>
+    </main>
+</body>
+</html>
